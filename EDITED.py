@@ -44,7 +44,7 @@ mobileno int)
 
 cursor.execute('''
 INSERT INTO students(roomno,admno,name,branch,mobileno) VALUES
-(105,180112,"SUJITH V I","CSE",9961957849)
+(000,000000,"SUJITH V I","CSE",0000000000)
 ''')
 
 

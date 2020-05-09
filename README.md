@@ -1,2 +1,3 @@
-# Python-project
-Project1
+# Hostel Management using python and sql database
+
+Project done in First year on Python
